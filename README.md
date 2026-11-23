@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2f5a85&height=190&section=header&text=Ibrahim%20Ouchari&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Odoo%20Developer%20and%20Techno-Functional%20Consultant&descSize=18&descAlignY=58" width="100%" alt="Ibrahim Ouchari - Odoo Developer and Techno-Functional Consultant"/>
 
+<p align="center"><a href="https://ouchari-ibrahim.github.io">🌐 Website</a> · <a href="https://ouchari-ibrahim.github.io/fr/">🇫🇷 Version française</a></p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F5A85&center=true&vCenter=true&width=640&lines=19+Odoo+projects+live+in+production;From+the+first+client+meeting+to+go-live;Odoo+14+to+19+%E2%80%A2+Community+and+Enterprise;MRP+%E2%80%A2+Quality+%E2%80%A2+Maintenance+%E2%80%A2+Payroll" alt="19 Odoo projects live in production"/>
 </p>
