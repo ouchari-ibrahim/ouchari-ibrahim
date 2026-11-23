@@ -87,6 +87,7 @@ Odoo Developer, Odoo Techno-Functional Consultant and ERP project roles · on-si
 
 ## 📂 Portfolio
 
+- [**Website**](https://ouchari-ibrahim.github.io): my portfolio website
 - [**odoo-portfolio**](https://github.com/ouchari-ibrahim/odoo-portfolio): what I deliver on Odoo projects (anonymized, no client code)
 - [**Rental**](https://github.com/ouchari-ibrahim/Rental): my first full Odoo application, rental management for Odoo 14
 
@@ -94,6 +95,6 @@ Odoo Developer, Odoo Techno-Functional Consultant and ERP project roles · on-si
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ouchari-ibrahim) · [ouchariibra@gmail.com](mailto:ouchariibra@gmail.com)
+[Website](https://ouchari-ibrahim.github.io) · [LinkedIn](https://www.linkedin.com/in/ouchari-ibrahim) · [ouchariibra@gmail.com](mailto:ouchariibra@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2f5a85&height=100&section=footer" width="100%" alt=""/>
